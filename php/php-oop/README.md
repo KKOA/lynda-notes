@@ -1,6 +1,9 @@
-#PHP object oriented programming note
+# PHP OOP (Object Oriented Programming) note
 
-Chapters
+## Requirements
+- PHP 7 or greater
+
+## Chapters
 - [Chapter 02 : Object Basics](https://github.com/KKOA/lynda-notes/tree/master/php/php-oop/ch02)
 - [Chapter 03 : Class Inheritance](https://github.com/KKOA/lynda-notes/tree/master/php/php-oop/ch03) 
 - [Chapter 04 : Object Access Control](https://github.com/KKOA/lynda-notes/tree/master/php/php-oop/ch04)
